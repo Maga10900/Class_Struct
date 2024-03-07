@@ -1,0 +1,14 @@
+C:\Users\Muhammad\source\repos\Class And Struct Task\Class And Struct Task\bin\Debug\net6.0\Class And Struct Task.exe
+C:\Users\Muhammad\source\repos\Class And Struct Task\Class And Struct Task\bin\Debug\net6.0\Class And Struct Task.deps.json
+C:\Users\Muhammad\source\repos\Class And Struct Task\Class And Struct Task\bin\Debug\net6.0\Class And Struct Task.runtimeconfig.json
+C:\Users\Muhammad\source\repos\Class And Struct Task\Class And Struct Task\bin\Debug\net6.0\Class And Struct Task.dll
+C:\Users\Muhammad\source\repos\Class And Struct Task\Class And Struct Task\bin\Debug\net6.0\Class And Struct Task.pdb
+C:\Users\Muhammad\source\repos\Class And Struct Task\Class And Struct Task\obj\Debug\net6.0\Class And Struct Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad\source\repos\Class And Struct Task\Class And Struct Task\obj\Debug\net6.0\Class And Struct Task.AssemblyInfoInputs.cache
+C:\Users\Muhammad\source\repos\Class And Struct Task\Class And Struct Task\obj\Debug\net6.0\Class And Struct Task.AssemblyInfo.cs
+C:\Users\Muhammad\source\repos\Class And Struct Task\Class And Struct Task\obj\Debug\net6.0\Class And Struct Task.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\source\repos\Class And Struct Task\Class And Struct Task\obj\Debug\net6.0\Class And Struct Task.dll
+C:\Users\Muhammad\source\repos\Class And Struct Task\Class And Struct Task\obj\Debug\net6.0\refint\Class And Struct Task.dll
+C:\Users\Muhammad\source\repos\Class And Struct Task\Class And Struct Task\obj\Debug\net6.0\Class And Struct Task.pdb
+C:\Users\Muhammad\source\repos\Class And Struct Task\Class And Struct Task\obj\Debug\net6.0\Class And Struct Task.genruntimeconfig.cache
+C:\Users\Muhammad\source\repos\Class And Struct Task\Class And Struct Task\obj\Debug\net6.0\ref\Class And Struct Task.dll
